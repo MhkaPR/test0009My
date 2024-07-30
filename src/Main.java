@@ -1,11 +1,11 @@
 public class Main {
     public static void main(String[] args) {
-    int x = 10;
-        switch (x)
-        {
-            case 1: System.out.print(1);break;
-            case 2:System.out.println(2);break;
-            default:print("hello");
+        if(10==5){
+
+            System.out.println("hooora");
+        }
+        else {
+            System.out.println("Ahhhhh");
         }
     }
 
