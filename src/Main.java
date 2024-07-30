@@ -7,6 +7,7 @@ public class Main {
         else {
             System.out.println("Ahhhhh");
         }
+        System.out.println("qqqqqqqqqq");
     }
 
     public static void print(String s)
